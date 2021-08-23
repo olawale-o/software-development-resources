@@ -19,3 +19,11 @@
 | Link | Description | Info |
 | ---- | ----------- | ---------- |
 | [Color Space](https://mycolor.space/) | Color | None |
+| [Tint and Shade color generator](https://maketintsandshades.com/) | Color | None |
+| [Image Color Picker](https://imagecolorpicker.com/) | Color | Pick Colors from any image |
+| [Image Color](https://image-color.com/) | Color | Pick Colors from any image |
+## Emojis
+
+| Link | Description | Info |
+| ---- | ----------- | ---------- |
+| [WebFx](https://www.webfx.com/tools/emoji-cheat-sheet/) | Color | None |
