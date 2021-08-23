@@ -27,3 +27,8 @@
 | Link | Description | Info |
 | ---- | ----------- | ---------- |
 | [WebFx](https://www.webfx.com/tools/emoji-cheat-sheet/) | Color | None |
+## Webdesign manual & Best Practices
+
+| Link | Description | Info |
+| ---- | ----------- | ---------- |
+| [Web field manual](https://webfieldmanual.com/code.html) | Webdesign | None |
