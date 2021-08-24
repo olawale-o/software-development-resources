@@ -14,6 +14,7 @@
 | [Lottie files](https://lottiefiles.com/) | Animated icons | None |
 | [Boxicons](https://boxicons.com/) | icons | None |
 | [FontAwesome](https://fontawesome.com/) | icons | None |
+| [Icons8](https://icons8.com/) | icons | None |
 ## Colors
 
 | Link | Description | Info |
